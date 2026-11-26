@@ -6,7 +6,11 @@ A local-first password manager focused on security, privacy, and performance.
 
 ## Overview
 
-Vareld Vault is an experimental password manager project. Its goal is to explore a practical, privacy-oriented way to store and manage credentials locally, while evaluating implementation choices through measurable tests.
+Vareld Vault is a long-term software project with the ambition to become a reliable, highly secure, privacy-focused password manager that anyone can use. It is not intended to remain only a personal project: the goal is to develop it into a public product, make it available to the wider community, and build it with real users and contributors in mind.
+
+This is a large undertaking. A password manager must protect some of the most sensitive information a person owns, so the project will prioritize careful engineering, extensive testing, transparent security practices, and independent review where possible. The ambition is to reach a high standard of security, but no software can honestly promise to be completely secure; security claims must be supported by evidence.
+
+When Vareld Vault is ready for public release, the intention is for people to be able to use it, not just to serve as a private tool for its creator. The project will remain experimental until its core functionality and security have been properly developed and evaluated.
 
 The project does not have a predefined programming language. Different languages and implementation approaches may be prototyped and compared before a final technical direction is selected.
 
@@ -24,6 +28,7 @@ The project does not have a predefined programming language. Different languages
 - **Security before convenience:** cryptographic design and threat modeling must precede real-world use.
 - **Evidence-based engineering:** language and architecture choices should be supported by benchmarks and testing.
 - **Transparency:** implemented features, experiments, and planned work must be clearly distinguished.
+- **Community-oriented:** build toward a public release that can serve users beyond the project's creator.
 
 ## Documentation
 
