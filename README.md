@@ -45,4 +45,6 @@ No production installation or usage instructions are provided while the project 
 
 ## License
 
-No license has been selected yet. Unless a license is added to this repository, all rights are reserved by the copyright holder.
+Vareld Vault is licensed under the [MIT License](LICENSE). You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the conditions stated in the license.
+
+Copyright (c) 2026 Matheus H.
