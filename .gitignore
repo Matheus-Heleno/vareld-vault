@@ -1,0 +1,43 @@
+# Build output
+/target/
+/build/
+/dist/
+
+# Dependencies and package caches
+/node_modules/
+/vendor/
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+*.local
+
+# IDE and editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Test and benchmark output
+/coverage/
+/benchmark-results/
+
+# Local vaults and sensitive material
+*.vault
+*.vlt
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
